@@ -46,7 +46,7 @@ makeAjaxRequest("www.google.com");
 
 /*1.2*/
 
-const warnaKesukaan = (warna = "putih") =>
+const warnaKesukaan = (warna = "biru mudah") =>
     console.log(`warna kesukaan saya adalah ${warna}`);
 warnaKesukaan();
 
